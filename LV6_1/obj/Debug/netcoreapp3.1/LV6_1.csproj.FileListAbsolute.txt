@@ -1,0 +1,13 @@
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\bin\Debug\netcoreapp3.1\LV6_1.exe
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\bin\Debug\netcoreapp3.1\LV6_1.deps.json
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\bin\Debug\netcoreapp3.1\LV6_1.runtimeconfig.json
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\bin\Debug\netcoreapp3.1\LV6_1.runtimeconfig.dev.json
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\bin\Debug\netcoreapp3.1\LV6_1.dll
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\bin\Debug\netcoreapp3.1\LV6_1.pdb
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\obj\Debug\netcoreapp3.1\LV6_1.csprojAssemblyReference.cache
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\obj\Debug\netcoreapp3.1\LV6_1.AssemblyInfoInputs.cache
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\obj\Debug\netcoreapp3.1\LV6_1.AssemblyInfo.cs
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\obj\Debug\netcoreapp3.1\LV6_1.csproj.CoreCompileInputs.cache
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\obj\Debug\netcoreapp3.1\LV6_1.dll
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\obj\Debug\netcoreapp3.1\LV6_1.pdb
+C:\Users\Gabrijel\source\repos\LV6_1\LV6_1\obj\Debug\netcoreapp3.1\LV6_1.genruntimeconfig.cache
